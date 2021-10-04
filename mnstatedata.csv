@@ -1,88 +1,88 @@
-,total_housing,housing_error,totalGas,gasError
-"Meeker County, Minnesota: Summary level: 050, state:27> county:093",9209,161,3495,197
-"Rice County, Minnesota: Summary level: 050, state:27> county:131",23005,362,14825,415
-"Red Lake County, Minnesota: Summary level: 050, state:27> county:125",1669,56,135,32
-"Clay County, Minnesota: Summary level: 050, state:27> county:027",24364,421,11373,518
-"Fillmore County, Minnesota: Summary level: 050, state:27> county:045",8616,177,4281,148
-"Polk County, Minnesota: Summary level: 050, state:27> county:119",12584,244,4985,249
-"Sibley County, Minnesota: Summary level: 050, state:27> county:143",6031,115,2749,114
-"Watonwan County, Minnesota: Summary level: 050, state:27> county:165",4310,146,2421,126
-"Big Stone County, Minnesota: Summary level: 050, state:27> county:011",2298,98,623,82
-"Cass County, Minnesota: Summary level: 050, state:27> county:021",13164,298,2284,148
-"Hubbard County, Minnesota: Summary level: 050, state:27> county:057",8688,181,1228,133
-"Martin County, Minnesota: Summary level: 050, state:27> county:091",8759,227,5298,267
-"Nobles County, Minnesota: Summary level: 050, state:27> county:105",8033,118,3736,217
-"Sherburne County, Minnesota: Summary level: 050, state:27> county:141",32206,372,23181,642
-"Carver County, Minnesota: Summary level: 050, state:27> county:019",36754,335,28419,421
-"McLeod County, Minnesota: Summary level: 050, state:27> county:085",14714,211,8484,319
-"Ramsey County, Minnesota: Summary level: 050, state:27> county:123",209043,906,155539,1126
-"Winona County, Minnesota: Summary level: 050, state:27> county:169",19442,286,10377,313
-"Dodge County, Minnesota: Summary level: 050, state:27> county:039",7756,139,4594,158
-"Crow Wing County, Minnesota: Summary level: 050, state:27> county:035",26820,479,14397,423
-"Wright County, Minnesota: Summary level: 050, state:27> county:171",48242,413,32899,627
-"Lincoln County, Minnesota: Summary level: 050, state:27> county:081",2468,86,815,64
-"Mille Lacs County, Minnesota: Summary level: 050, state:27> county:095",10249,183,3979,214
-"Carlton County, Minnesota: Summary level: 050, state:27> county:017",13613,288,4728,256
-"Kanabec County, Minnesota: Summary level: 050, state:27> county:065",6439,144,1543,128
-"Koochiching County, Minnesota: Summary level: 050, state:27> county:071",5538,219,2472,170
-"Morrison County, Minnesota: Summary level: 050, state:27> county:097",13371,253,5092,219
-"Pennington County, Minnesota: Summary level: 050, state:27> county:113",5995,138,2838,251
-"Steele County, Minnesota: Summary level: 050, state:27> county:147",14692,215,10683,283
-"Wilkin County, Minnesota: Summary level: 050, state:27> county:167",2818,110,956,112
-"Aitkin County, Minnesota: Summary level: 050, state:27> county:001",7681,248,1156,115
-"Faribault County, Minnesota: Summary level: 050, state:27> county:043",6137,154,2842,163
-"Murray County, Minnesota: Summary level: 050, state:27> county:101",3645,119,1030,70
-"Kandiyohi County, Minnesota: Summary level: 050, state:27> county:067",16889,235,8392,315
-"Lake County, Minnesota: Summary level: 050, state:27> county:075",5192,249,2267,197
-"Rock County, Minnesota: Summary level: 050, state:27> county:133",3914,149,1413,128
-"Roseau County, Minnesota: Summary level: 050, state:27> county:135",5980,164,1488,133
-"Traverse County, Minnesota: Summary level: 050, state:27> county:155",1608,85,31,14
-"Becker County, Minnesota: Summary level: 050, state:27> county:005",13617,226,3496,204
-"Hennepin County, Minnesota: Summary level: 050, state:27> county:053",508030,1677,396419,1720
-"Brown County, Minnesota: Summary level: 050, state:27> county:015",10764,200,6497,249
-"Chippewa County, Minnesota: Summary level: 050, state:27> county:023",5209,123,2589,189
-"Clearwater County, Minnesota: Summary level: 050, state:27> county:029",3405,96,571,66
-"Goodhue County, Minnesota: Summary level: 050, state:27> county:049",19452,225,11273,368
-"Isanti County, Minnesota: Summary level: 050, state:27> county:059",14903,196,6856,322
-"Jackson County, Minnesota: Summary level: 050, state:27> county:063",4419,134,2319,124
-"Mower County, Minnesota: Summary level: 050, state:27> county:099",15565,330,10142,394
-"Pine County, Minnesota: Summary level: 050, state:27> county:115",10760,219,3327,194
-"Olmsted County, Minnesota: Summary level: 050, state:27> county:109",62108,511,44476,668
-"Wadena County, Minnesota: Summary level: 050, state:27> county:159",5666,192,1881,200
-"Benton County, Minnesota: Summary level: 050, state:27> county:009",16452,196,9005,418
-"Freeborn County, Minnesota: Summary level: 050, state:27> county:047",13009,228,8435,246
-"Itasca County, Minnesota: Summary level: 050, state:27> county:061",19506,367,6934,301
-"Pope County, Minnesota: Summary level: 050, state:27> county:121",4981,205,1913,147
-"Stevens County, Minnesota: Summary level: 050, state:27> county:149",3624,157,1732,157
-"Swift County, Minnesota: Summary level: 050, state:27> county:151",4263,113,1661,121
-"Cottonwood County, Minnesota: Summary level: 050, state:27> county:033",4846,135,2984,154
-"Scott County, Minnesota: Summary level: 050, state:27> county:139",49479,377,40605,640
-"Wabasha County, Minnesota: Summary level: 050, state:27> county:157",9020,170,4024,238
-"Pipestone County, Minnesota: Summary level: 050, state:27> county:117",3973,122,1693,116
-"Norman County, Minnesota: Summary level: 050, state:27> county:107",2746,89,626,60
-"Nicollet County, Minnesota: Summary level: 050, state:27> county:103",12885,228,8483,299
-"Douglas County, Minnesota: Summary level: 050, state:27> county:041",16663,259,6560,312
-"Grant County, Minnesota: Summary level: 050, state:27> county:051",2612,83,56,26
-"Kittson County, Minnesota: Summary level: 050, state:27> county:069",1860,84,446,66
-"Le Sueur County, Minnesota: Summary level: 050, state:27> county:079",10939,166,7042,227
-"Mahnomen County, Minnesota: Summary level: 050, state:27> county:087",1946,47,115,23
-"Chisago County, Minnesota: Summary level: 050, state:27> county:025",20242,267,13520,347
-"Redwood County, Minnesota: Summary level: 050, state:27> county:127",6261,129,2382,144
-"Yellow Medicine County, Minnesota: Summary level: 050, state:27> county:173",4087,133,1774,106
-"Todd County, Minnesota: Summary level: 050, state:27> county:153",9819,176,2984,161
-"Beltrami County, Minnesota: Summary level: 050, state:27> county:007",17372,279,5467,319
-"Blue Earth County, Minnesota: Summary level: 050, state:27> county:013",26091,343,17943,451
-"Houston County, Minnesota: Summary level: 050, state:27> county:055",8253,122,4365,195
-"Lac qui Parle County, Minnesota: Summary level: 050, state:27> county:073",3090,132,1213,77
-"Lake of the Woods County, Minnesota: Summary level: 050, state:27> county:077",1470,118,389,77
-"Otter Tail County, Minnesota: Summary level: 050, state:27> county:111",24687,299,7471,341
-"Waseca County, Minnesota: Summary level: 050, state:27> county:161",7425,143,4474,220
-"St. Louis County, Minnesota: Summary level: 050, state:27> county:137",85807,756,41025,800
-"Anoka County, Minnesota: Summary level: 050, state:27> county:003",128198,456,109619,963
-"Stearns County, Minnesota: Summary level: 050, state:27> county:145",59479,467,31042,694
-"Dakota County, Minnesota: Summary level: 050, state:27> county:037",161488,587,134066,1034
-"Lyon County, Minnesota: Summary level: 050, state:27> county:083",10018,178,3908,250
-"Marshall County, Minnesota: Summary level: 050, state:27> county:089",3971,87,1007,85
-"Renville County, Minnesota: Summary level: 050, state:27> county:129",6085,128,2774,125
-"Washington County, Minnesota: Summary level: 050, state:27> county:163",94431,505,76858,783
-"Cook County, Minnesota: Summary level: 050, state:27> county:031",2691,163,120,47
+,total_housing,housing_error,totalGas,gasError,totalElec,elecError
+"Meeker County, Minnesota: Summary level: 050, state:27> county:093",9209,161,3495,197,2226,162
+"Rice County, Minnesota: Summary level: 050, state:27> county:131",23005,362,14825,415,3940,364
+"Red Lake County, Minnesota: Summary level: 050, state:27> county:125",1669,56,135,32,517,58
+"Clay County, Minnesota: Summary level: 050, state:27> county:027",24364,421,11373,518,8701,530
+"Fillmore County, Minnesota: Summary level: 050, state:27> county:045",8616,177,4281,148,1008,106
+"Polk County, Minnesota: Summary level: 050, state:27> county:119",12584,244,4985,249,3637,255
+"Sibley County, Minnesota: Summary level: 050, state:27> county:143",6031,115,2749,114,717,98
+"Watonwan County, Minnesota: Summary level: 050, state:27> county:165",4310,146,2421,126,646,96
+"Big Stone County, Minnesota: Summary level: 050, state:27> county:011",2298,98,623,82,683,97
+"Cass County, Minnesota: Summary level: 050, state:27> county:021",13164,298,2284,148,3278,167
+"Hubbard County, Minnesota: Summary level: 050, state:27> county:057",8688,181,1228,133,2834,185
+"Martin County, Minnesota: Summary level: 050, state:27> county:091",8759,227,5298,267,1232,202
+"Nobles County, Minnesota: Summary level: 050, state:27> county:105",8033,118,3736,217,1336,196
+"Sherburne County, Minnesota: Summary level: 050, state:27> county:141",32206,372,23181,642,4224,485
+"Carver County, Minnesota: Summary level: 050, state:27> county:019",36754,335,28419,421,4698,346
+"McLeod County, Minnesota: Summary level: 050, state:27> county:085",14714,211,8484,319,2456,289
+"Ramsey County, Minnesota: Summary level: 050, state:27> county:123",209043,906,155539,1126,44227,1123
+"Winona County, Minnesota: Summary level: 050, state:27> county:169",19442,286,10377,313,4692,364
+"Dodge County, Minnesota: Summary level: 050, state:27> county:039",7756,139,4594,158,817,133
+"Crow Wing County, Minnesota: Summary level: 050, state:27> county:035",26820,479,14397,423,5253,370
+"Wright County, Minnesota: Summary level: 050, state:27> county:171",48242,413,32899,627,6647,393
+"Lincoln County, Minnesota: Summary level: 050, state:27> county:081",2468,86,815,64,740,73
+"Mille Lacs County, Minnesota: Summary level: 050, state:27> county:095",10249,183,3979,214,1543,187
+"Carlton County, Minnesota: Summary level: 050, state:27> county:017",13613,288,4728,256,2386,206
+"Kanabec County, Minnesota: Summary level: 050, state:27> county:065",6439,144,1543,128,701,94
+"Koochiching County, Minnesota: Summary level: 050, state:27> county:071",5538,219,2472,170,1003,140
+"Morrison County, Minnesota: Summary level: 050, state:27> county:097",13371,253,5092,219,2015,196
+"Pennington County, Minnesota: Summary level: 050, state:27> county:113",5995,138,2838,251,1447,208
+"Steele County, Minnesota: Summary level: 050, state:27> county:147",14692,215,10683,283,1554,219
+"Wilkin County, Minnesota: Summary level: 050, state:27> county:167",2818,110,956,112,791,113
+"Aitkin County, Minnesota: Summary level: 050, state:27> county:001",7681,248,1156,115,1161,86
+"Faribault County, Minnesota: Summary level: 050, state:27> county:043",6137,154,2842,163,673,103
+"Murray County, Minnesota: Summary level: 050, state:27> county:101",3645,119,1030,70,550,66
+"Kandiyohi County, Minnesota: Summary level: 050, state:27> county:067",16889,235,8392,315,3404,283
+"Lake County, Minnesota: Summary level: 050, state:27> county:075",5192,249,2267,197,902,135
+"Rock County, Minnesota: Summary level: 050, state:27> county:133",3914,149,1413,128,975,133
+"Roseau County, Minnesota: Summary level: 050, state:27> county:135",5980,164,1488,133,1634,149
+"Traverse County, Minnesota: Summary level: 050, state:27> county:155",1608,85,31,14,441,70
+"Becker County, Minnesota: Summary level: 050, state:27> county:005",13617,226,3496,204,4061,255
+"Hennepin County, Minnesota: Summary level: 050, state:27> county:053",508030,1677,396419,1720,90501,1675
+"Brown County, Minnesota: Summary level: 050, state:27> county:015",10764,200,6497,249,1692,206
+"Chippewa County, Minnesota: Summary level: 050, state:27> county:023",5209,123,2589,189,1034,138
+"Clearwater County, Minnesota: Summary level: 050, state:27> county:029",3405,96,571,66,831,65
+"Goodhue County, Minnesota: Summary level: 050, state:27> county:049",19452,225,11273,368,2990,279
+"Isanti County, Minnesota: Summary level: 050, state:27> county:059",14903,196,6856,322,1854,224
+"Jackson County, Minnesota: Summary level: 050, state:27> county:063",4419,134,2319,124,625,96
+"Mower County, Minnesota: Summary level: 050, state:27> county:099",15565,330,10142,394,2354,278
+"Pine County, Minnesota: Summary level: 050, state:27> county:115",10760,219,3327,194,1437,117
+"Olmsted County, Minnesota: Summary level: 050, state:27> county:109",62108,511,44476,668,10605,552
+"Wadena County, Minnesota: Summary level: 050, state:27> county:159",5666,192,1881,200,1572,156
+"Benton County, Minnesota: Summary level: 050, state:27> county:009",16452,196,9005,418,4188,381
+"Freeborn County, Minnesota: Summary level: 050, state:27> county:047",13009,228,8435,246,1539,190
+"Itasca County, Minnesota: Summary level: 050, state:27> county:061",19506,367,6934,301,3519,282
+"Pope County, Minnesota: Summary level: 050, state:27> county:121",4981,205,1913,147,818,112
+"Stevens County, Minnesota: Summary level: 050, state:27> county:149",3624,157,1732,157,876,137
+"Swift County, Minnesota: Summary level: 050, state:27> county:151",4263,113,1661,121,963,111
+"Cottonwood County, Minnesota: Summary level: 050, state:27> county:033",4846,135,2984,154,630,96
+"Scott County, Minnesota: Summary level: 050, state:27> county:139",49479,377,40605,640,6323,516
+"Wabasha County, Minnesota: Summary level: 050, state:27> county:157",9020,170,4024,238,1220,177
+"Pipestone County, Minnesota: Summary level: 050, state:27> county:117",3973,122,1693,116,758,95
+"Norman County, Minnesota: Summary level: 050, state:27> county:107",2746,89,626,60,877,84
+"Nicollet County, Minnesota: Summary level: 050, state:27> county:103",12885,228,8483,299,2016,207
+"Douglas County, Minnesota: Summary level: 050, state:27> county:041",16663,259,6560,312,4108,286
+"Grant County, Minnesota: Summary level: 050, state:27> county:051",2612,83,56,26,759,66
+"Kittson County, Minnesota: Summary level: 050, state:27> county:069",1860,84,446,66,483,62
+"Le Sueur County, Minnesota: Summary level: 050, state:27> county:079",10939,166,7042,227,1231,161
+"Mahnomen County, Minnesota: Summary level: 050, state:27> county:087",1946,47,115,23,585,47
+"Chisago County, Minnesota: Summary level: 050, state:27> county:025",20242,267,13520,347,2159,207
+"Redwood County, Minnesota: Summary level: 050, state:27> county:127",6261,129,2382,144,1209,111
+"Yellow Medicine County, Minnesota: Summary level: 050, state:27> county:173",4087,133,1774,106,883,95
+"Todd County, Minnesota: Summary level: 050, state:27> county:153",9819,176,2984,161,1790,151
+"Beltrami County, Minnesota: Summary level: 050, state:27> county:007",17372,279,5467,319,4824,355
+"Blue Earth County, Minnesota: Summary level: 050, state:27> county:013",26091,343,17943,451,3774,416
+"Houston County, Minnesota: Summary level: 050, state:27> county:055",8253,122,4365,195,944,148
+"Lac qui Parle County, Minnesota: Summary level: 050, state:27> county:073",3090,132,1213,77,871,103
+"Lake of the Woods County, Minnesota: Summary level: 050, state:27> county:077",1470,118,389,77,367,84
+"Otter Tail County, Minnesota: Summary level: 050, state:27> county:111",24687,299,7471,341,7006,301
+"Waseca County, Minnesota: Summary level: 050, state:27> county:161",7425,143,4474,220,910,172
+"St. Louis County, Minnesota: Summary level: 050, state:27> county:137",85807,756,41025,800,15899,574
+"Anoka County, Minnesota: Summary level: 050, state:27> county:003",128198,456,109619,963,12954,705
+"Stearns County, Minnesota: Summary level: 050, state:27> county:145",59479,467,31042,694,15809,717
+"Dakota County, Minnesota: Summary level: 050, state:27> county:037",161488,587,134066,1034,19874,972
+"Lyon County, Minnesota: Summary level: 050, state:27> county:083",10018,178,3908,250,3420,223
+"Marshall County, Minnesota: Summary level: 050, state:27> county:089",3971,87,1007,85,1057,84
+"Renville County, Minnesota: Summary level: 050, state:27> county:129",6085,128,2774,125,1233,122
+"Washington County, Minnesota: Summary level: 050, state:27> county:163",94431,505,76858,783,13802,684
+"Cook County, Minnesota: Summary level: 050, state:27> county:031",2691,163,120,47,890,127
